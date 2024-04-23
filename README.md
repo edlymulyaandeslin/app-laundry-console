@@ -1,10 +1,9 @@
 # HOW TO USE
 
-# Open terminal
+##Open terminal
 
-# go run main.go
+##go run main.go
 
-==============================
 ======= Enigma Laundry =======
 List menu laundry :
 
@@ -14,9 +13,8 @@ List menu laundry :
 4. Exit
    Enter your choice : //pilih sesuai nomor
 
-# Customer Menu
+##Customer Menu
 
-==============================
 ======= Customer Menu ========
 
 1. View All Customer (get all customer)
@@ -27,9 +25,8 @@ List menu laundry :
 6. Back
    Enter your choice : //pilih sesuai nomor
 
-# Layanan Menu
+##Layanan Menu
 
-==============================
 ======= Layanan Menu =========
 
 1. View All Layanan (get all layanan)
@@ -40,9 +37,8 @@ List menu laundry :
 6. Back
    Enter your choice : //pilih sesuai nomor
 
-# Transaksi Menu
+##Transaksi Menu
 
-==============================
 ====== Transaction Menu ======
 
 1. View All Transaction (get all transaction)
