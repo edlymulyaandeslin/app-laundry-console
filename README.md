@@ -11,7 +11,8 @@ List menu laundry :
 2. Layanan Menu
 3. Transaksi Menu
 4. Exit
-   Enter your choice : //pilih sesuai nomor
+
+Enter your choice : //pilih sesuai nomor
 
 ##Customer Menu
 
@@ -23,7 +24,8 @@ List menu laundry :
 4. Update Customer (update)
 5. Delete Customer (delete)
 6. Back
-   Enter your choice : //pilih sesuai nomor
+
+Enter your choice : //pilih sesuai nomor
 
 ##Layanan Menu
 
@@ -35,7 +37,8 @@ List menu laundry :
 4. Update Layanan (update)
 5. Delete Layanan (delete)
 6. Back
-   Enter your choice : //pilih sesuai nomor
+
+Enter your choice : //pilih sesuai nomor
 
 ##Transaksi Menu
 
@@ -45,4 +48,5 @@ List menu laundry :
 2. View Transaction Detail (get detail transaction)
 3. Add New Transaction (add transaction)
 4. Back
-   Enter your choice : //pilih sesuai nomor
+
+Enter your choice : //pilih sesuai nomor
